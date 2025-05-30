@@ -1,8 +1,8 @@
 package me.codetiny.chap01jenkins.controller;
 
 import lombok.extern.slf4j.Slf4j;
-import me.codetiny.bootproject.dto.CalculatorDTO;
-import me.codetiny.bootproject.service.CalculatorService;
+import me.codetiny.chap01jenkins.dto.CalculatorDTO;
+import me.codetiny.chap01jenkins.service.CalculatorService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;

@@ -1,6 +1,6 @@
 package me.codetiny.chap01jenkins.service;
 
-import me.codetiny.bootproject.dto.CalculatorDTO;
+import me.codetiny.chap01jenkins.dto.CalculatorDTO;
 import org.springframework.stereotype.Service;
 
 @Service
